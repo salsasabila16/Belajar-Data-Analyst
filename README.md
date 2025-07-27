@@ -1,2 +1,2 @@
-# wpu-resulolusi
-Repository untuknmenyimpan rencana WPU kedepannya
+# Data Analyst
+Repository tutorial data analyst
